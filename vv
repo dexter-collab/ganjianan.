@@ -1,0 +1,14 @@
+include<stdio.h>
+int main()
+{
+int score;
+printf("请输入你的成绩“）;
+scanf("%d",&score);
+if((score>=0&&score<60)
+{
+printf("不及格");
+}
+else{
+printf("输入错误")
+}
+}
